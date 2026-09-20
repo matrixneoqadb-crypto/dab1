@@ -11,7 +11,8 @@
 ├── 04-ROBOTICS/
 │   └── MPH-001-GUARDIAN.md              # Human-led, safety-first
 ├── 05-PHILOSOPHY/
-│   └── EYE-DIAGRAM.jpg                  # "What if our eyes are wrong?"
+│   └── EYE-DIAGRAM.jpg                  # "What if our eyes are wrong?
+"
 ├── 06-SIMULATION/
 │   └── SPIDER-WORLD-MAP.png            # 1,000,000 credits sim
 ├── kearn_0+5.txt                        # i wont force
